@@ -1,0 +1,5 @@
+{
+    "url": "https://www.imdb.com/chart/top/",
+    "n_filmes": 10,
+    "db_name": "imdb_projeto.db"
+}
